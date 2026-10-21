@@ -2,13 +2,14 @@
 Multi-agent AI workflow automation using n8n for competitive product research.
 
 
-Program: Extern – Wayfair AI Automation Externship
+###Program: Extern – Wayfair AI Automation Externship
 
-Program Manager: Christie Andersen
+###Program Manager: Christie Andersen
 
-Progress: ✅ EXTERNSHIP COMPLETE | All 5 Projects Done | Final Presentation Complete | 🏁 Goal: Professional Award
+###Progress: ✅ EXTERNSHIP COMPLETE | All 5 Projects Done | Final Presentation Complete | 🏁 Goal: Professional Award
 
-Overview
+###Overview
+
 This project documents my work during an AI Agent Engineering Externship
 focused on competitive product research for Wayfair's rug category. I
 built several multi-agent automation workflow in n8n.
@@ -17,7 +18,8 @@ input, route the research across specialized AI agents, and combine
 their findings into one report.
 
 
-Project Breakdown
+###Project Breakdown
+
 1. Build a Moodboard Agent: Create a simple AI tool that transforms style prompts into curated visual outputs.
 2. Discover Market Trends: Build agents that collect and analyze product data, blogs, and social media to uncover design trends.
 3. Monitor Competitors: Develop AI agents to track competitor launches, pricing updates, and marketing campaigns.
