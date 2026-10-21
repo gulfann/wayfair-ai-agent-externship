@@ -1,37 +1,70 @@
-# wayfair-ai-agent-externship
-Multi-agent AI workflow automation using n8n for competitive product research.
+# Wayfair AI Agent Engineering Externship
+### Multi-Agent AI Workflow Automation | Competitive Product Research | n8n
 
+**Program:** Extern – Wayfair AI Automation Externship  
+**Program Manager:** Christie Andersen  
+**Status:** ✅ Completed — All 5 Projects Finished | Final Presentation Completed  
+**Goal:** Professional Award
 
-###Program: Extern – Wayfair AI Automation Externship
+---
 
-###Program Manager: Christie Andersen
+## Project Overview
 
-###Progress: ✅ EXTERNSHIP COMPLETE | All 5 Projects Done | Final Presentation Complete | 🏁 Goal: Professional Award
+This repository documents my work during the **Extern – Wayfair AI Automation Externship**, where I explored AI-powered workflow automation for competitive product research in Wayfair’s rug category.
 
-###Overview
+Using **n8n**, I designed multi-agent automation workflows that take a product category and keyword as input, route research tasks to specialized AI agents, and consolidate their findings into a unified report.
 
-This project documents my work during an AI Agent Engineering Externship
-focused on competitive product research for Wayfair's rug category. I
-built several multi-agent automation workflow in n8n.
-The workflow was designed to take a product category and keyword as
-input, route the research across specialized AI agents, and combine
-their findings into one report.
+The project focused on using AI to streamline research, identify emerging market trends, monitor competitors, generate actionable content ideas, and organize insights into a dashboard for ongoing monitoring.
 
+## Project Objectives
 
-###Project Breakdown
+- Automate market and product trend research.
+- Monitor competitor activity, pricing updates, and marketing campaigns.
+- Transform research findings into actionable insights and creative ideas.
+- Generate visual moodboards from style prompts.
+- Consolidate datasets and AI-generated insights into a monitoring dashboard.
 
-1. Build a Moodboard Agent: Create a simple AI tool that transforms style prompts into curated visual outputs.
-2. Discover Market Trends: Build agents that collect and analyze product data, blogs, and social media to uncover design trends.
-3. Monitor Competitors: Develop AI agents to track competitor launches, pricing updates, and marketing campaigns.
-4. Generate AI Insights: Turn raw trend signals into summaries, draft blog ideas, and campaign captions.
-5. Build the Dashboard: Combine datasets and insights into a live, auto-updating Google Sheets tool for managers. 
+## Project Breakdown
 
+### 1. Build a Moodboard Agent
+Created an AI-powered workflow concept that transforms style prompts into curated visual outputs, helping translate design inspiration into visual moodboards.
 
-### Key Learnings
+### 2. Discover Market Trends
+Designed research workflows to collect and analyze product data, blogs, and social media signals to identify emerging design and market trends.
 
-- Learned to build AI agents and automate workflows using **n8n**, with minimal coding.
-- Gained hands-on experience designing AI-powered workflows for market trend discovery, competitor monitoring, and moodboard generation.
-- Learned to transform raw product data and online trend signals into actionable insights, content ideas, and marketing captions.
-- Developed an understanding of how AI agents can automate repetitive tasks and support decision-making.
-- Learned to consolidate datasets and AI-generated insights into a **Google Sheets dashboard** for ongoing monitoring and reporting.
-- Explored practical applications of AI workflow automation across marketing, product research, consulting, and data analytics.
+### 3. Monitor Competitors
+Explored AI agent workflows for tracking competitor product launches, pricing changes, and marketing campaigns to support competitive research.
+
+### 4. Generate AI Insights
+Developed workflows to transform raw trend signals into concise summaries, blog post ideas, and marketing campaign captions.
+
+### 5. Build the Dashboard
+Combined datasets and AI-generated insights into a **Google Sheets dashboard** designed to support ongoing monitoring, reporting, and decision-making.
+
+## Key Learnings
+
+- **AI Workflow Automation:** Learned to build AI agents and automate multi-step workflows using n8n with minimal coding.
+- **Market Intelligence:** Gained hands-on experience designing workflows for trend discovery and competitive product research.
+- **Insight Generation:** Explored how raw product data and online signals can be transformed into summaries, content ideas, and marketing captions.
+- **Workflow Design:** Developed an understanding of how specialized AI agents can work together to automate repetitive research tasks.
+- **Dashboard Development:** Learned to consolidate datasets and AI-generated insights into a Google Sheets dashboard for monitoring and reporting.
+- **Business Applications:** Explored the practical use of AI workflow automation in product research, marketing, consulting, and data analytics.
+
+## Tools & Technologies
+
+- **n8n** — Workflow automation and AI agent orchestration
+- **AI agents and language models** — Research synthesis and content generation
+- **Google Sheets** — Data consolidation and dashboard reporting
+- **Product and online trend research** — Competitive intelligence and market analysis
+
+## Project Outcome
+
+Completed all **five projects** and the final presentation as part of the Wayfair AI Automation Externship.
+
+This experience strengthened my understanding of how AI-powered workflows can connect research, analysis, content generation, and reporting into a more streamlined process.
+
+It also expanded my practical exposure to AI automation and its applications in **data analytics, market research, and business decision support**.
+
+---
+
+*Built as part of the Extern – Wayfair AI Automation Externship.*
